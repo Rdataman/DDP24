@@ -2,7 +2,7 @@
 Introduction of the APP "SimpleCal"
 ===
 author: Rdataman
-date: Wed Jul 23 23:10:12 2014
+date: Thu Jul 24 08:56:57 2014
 transition: zoom
 font-family: 'Times New Roman'
 autosize: true
@@ -27,6 +27,15 @@ Start the APP
 
 Interface
 ========================================================
+Calculation done in this example
+
+```r
+500+90
+```
+
+```
+[1] 590
+```
 ![The interface](interface.jpg)
 
 Source codes

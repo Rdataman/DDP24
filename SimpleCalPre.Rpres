@@ -29,6 +29,10 @@ Start the APP
 
 Interface
 ========================================================
+Calculation done in this example
+```{r}
+500+90
+```
 ![The interface](interface.jpg)
 
 Source codes
@@ -40,6 +44,7 @@ url1<-"https://raw.githubusercontent.com/Rdataman/Developing-Data-Products/maste
 url2<-"https://raw.githubusercontent.com/Rdataman/Developing-Data-Products/master/ui.R"
 if (!file.exists("server.R")){download.file(url1,"server.R") }
 if (!file.exists("ui.R")){download.file(url2,"ui.R") }
+
 ```
     
 <- *END* ->
